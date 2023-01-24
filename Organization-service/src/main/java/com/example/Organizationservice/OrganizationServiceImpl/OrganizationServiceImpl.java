@@ -1,14 +1,14 @@
-package OrganizationServiceImpl;
+package com.example.Organizationservice.OrganizationServiceImpl;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
-import dto.OrganizationDTO;
+import com.example.Organizationservice.dto.OrganizationDTO;
 import jakarta.persistence.EntityNotFoundException;
-import models.Organization;
+import com.example.Organizationservice.models.Organization;
 import org.springframework.stereotype.Service;
-import repositories.OrganizationRepository;
-import services.OrganizationService;
+import com.example.Organizationservice.repositories.OrganizationRepository;
+import com.example.Organizationservice.services.OrganizationService;
 
 @Service
 public class OrganizationServiceImpl implements OrganizationService {

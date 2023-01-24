@@ -1,6 +1,6 @@
-package services;
+package com.example.Organizationservice.services;
 
-import dto.OrganizationDTO;
+import com.example.Organizationservice.dto.OrganizationDTO;
 
 import java.util.List;
 

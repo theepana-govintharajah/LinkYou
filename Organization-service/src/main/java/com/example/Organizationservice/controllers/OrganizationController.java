@@ -1,4 +1,4 @@
-package controllers;
+package com.example.Organizationservice.controllers;
 
 //import java.util.List;
 //import org.springframework.beans.factory.annotation.Autowired;
@@ -38,13 +38,17 @@ package controllers;
 
 import java.util.List;
 
-import dto.OrganizationDTO;
+import com.example.Organizationservice.dto.OrganizationDTO;
 import org.springframework.web.bind.annotation.*;
-import services.OrganizationService;
+import com.example.Organizationservice.services.OrganizationService;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 @RestController
 @RequestMapping("/api/organizations")
 public class OrganizationController {
+
+    private final Logger logger = LoggerFactory.getLogger(OrganizationController.class);
     private final OrganizationService organizationService;
 
     public OrganizationController(OrganizationService organizationService) {
@@ -58,6 +62,8 @@ public class OrganizationController {
 
     @GetMapping
     public List<OrganizationDTO> findAll() {
+
+        logger.debug("finding all organizations");
         return organizationService.findAll();
     }
 

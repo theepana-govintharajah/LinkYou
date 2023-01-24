@@ -1,4 +1,4 @@
-package models;
+package com.example.Organizationservice.models;
 
 import jakarta.persistence.*;
 

@@ -1,4 +1,4 @@
-package dto;
+package com.example.Organizationservice.dto;
 
 // OrganizationDTO.java
 
