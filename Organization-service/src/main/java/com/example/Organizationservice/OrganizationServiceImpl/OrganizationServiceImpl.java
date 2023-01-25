@@ -54,9 +54,13 @@ public class OrganizationServiceImpl implements OrganizationService {
         return organizationDTO;
     }
 
+
     @Override
     public OrganizationDTO findByName(String name) {
         Organization organization = organizationRepository.findByName(name);
+        if (organization == null) {
+            throw new OrganizationNotFoundException("Organization with name " + name + " not found.");
+        }
         OrganizationDTO organizationDTO = new OrganizationDTO();
         organizationDTO.setId(organization.getId());
         organizationDTO.setName(organization.getName());
@@ -66,4 +70,8 @@ public class OrganizationServiceImpl implements OrganizationService {
     }
 
 }
+
+
+
+
 
