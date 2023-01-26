@@ -35,7 +35,8 @@ public class Event {
     private String endTime;
 //
 //    @ManyToOne(fetch = FetchType.LAZY)
-//    @JoinColumn(name = "organization_id", nullable = false)
+    @JoinColumn(name = "organization_id", nullable = false)
+    private Integer organization_id;
 //    private Organization organization;
 
     //getters and setters
