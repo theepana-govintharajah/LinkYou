@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b281a8d-366b-4d4b-8320-9c7693b8f159" name="Changes" comment="Change main file structure" />
+    <list default="true" id="3b281a8d-366b-4d4b-8320-9c7693b8f159" name="Changes" comment="Change main file structure">
+      <change afterPath="$PROJECT_DIR$/Event-service/src/main/java/com/example/Eventservice/models/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Event-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Event-service/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,11 +19,15 @@
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
@@ -91,7 +98,7 @@
       <updated>1674690993804</updated>
       <workItem from="1674690995330" duration="529000" />
       <workItem from="1674691573278" duration="26000" />
-      <workItem from="1674691618020" duration="345000" />
+      <workItem from="1674691618020" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="Change main file structure">
       <created>1674691909095</created>
