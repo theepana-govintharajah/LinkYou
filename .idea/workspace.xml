@@ -4,60 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b281a8d-366b-4d4b-8320-9c7693b8f159" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LinkYou.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/Event.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/src/main/java/com/example/Eventservice/EventServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Event/Event-service/src/test/java/com/example/Eventservice/EventServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Organization/.idea/Services.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Services.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/src/main/java/com/example/Eventservice/EventServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Event-service/Event-service/src/test/java/com/example/Eventservice/EventServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/java/com/example/Organizationservice/OrganizationServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/java/com/example/Organizationservice/OrganizationServiceImpl/OrganizationNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/java/com/example/Organizationservice/OrganizationServiceImpl/OrganizationServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/java/com/example/Organizationservice/controllers/OrganizationController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/java/com/example/Organizationservice/dto/OrganizationDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/java/com/example/Organizationservice/models/Organization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/java/com/example/Organizationservice/repositories/OrganizationRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/java/com/example/Organizationservice/services/OrganizationService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Organization-service/src/test/java/com/example/Organizationservice/OrganizationServiceApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3b281a8d-366b-4d4b-8320-9c7693b8f159" name="Changes" comment="Change main file structure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/theep/Downloads/LinkMate/LinkYou",
+    "last_opened_file_path": "C:/Users/theep/Downloads/LinkMate/LinkYou/Event-service",
     "spring.configuration.checksum": "7c7b5563265ab1301342fa4cdba58b64"
   }
 }]]></component>
@@ -144,7 +91,23 @@
       <updated>1674690993804</updated>
       <workItem from="1674690995330" duration="529000" />
       <workItem from="1674691573278" duration="26000" />
+      <workItem from="1674691618020" duration="345000" />
     </task>
+    <task id="LOCAL-00001" summary="Change main file structure">
+      <created>1674691909095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674691909095</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change main file structure">
+      <created>1674691952374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674691952374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,5 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Change main file structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change main file structure" />
   </component>
 </project>
